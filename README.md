@@ -8,7 +8,7 @@ Atendimento e Suporte ao cliente 🤝
 
 Atualmente estou estudando Desenvolvimento web back-end 
 -Formada em Administração - Desenvolvimento de liderança - Autodesenvolvimento 
-Pelo Senac Americana 🎓
+Pelo Senac Americana 🧑‍🎓
 <hr>
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelaespanhol&show_icons=true&layout=compact" />
